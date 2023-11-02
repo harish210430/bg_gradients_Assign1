@@ -93,8 +93,8 @@ h1 {
 .Box {
     width: 90%;
     margin: 60px auto;
-    height: 350px;
-    line-height: 350px;
+    height: 320px;
+    line-height: 320px;
     background-image: linear-gradient(rgba(247, 133, 99, 0.5),rgba(247, 133, 99, 0.5));
     border-radius: 10px;
 }
